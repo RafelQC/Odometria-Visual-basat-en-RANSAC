@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<selec1>2</selec1>
+<selec2>2</selec2>
+
+<url>Quadrat2x3m3voltes</url>
+
+<selec3>2</selec3>
+
+<xFrame>1</xFrame>
+<numMin>2</numMin>
+
+<optionRansac>1</optionRansac>
+<minConsensus>80</minConsensus>
+
+
+<numIterations>1000</numIterations>
+<numDataPoints>3</numDataPoints>
+<maxError>0.0028</maxError>
+
+<h>0.43</h>
+
+<Camera_Matrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    449.38312 0. 208.20762 0.
+    448.48709 147.07710 0. 0. 1.</data></Camera_Matrix>
+
+<Distortion_Coefficients type_id="opencv-matrix">
+  <rows>5</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    -0.19034 0.16094 -0.00122 -0.00178
+    0. </data></Distortion_Coefficients>
+</opencv_storage>
